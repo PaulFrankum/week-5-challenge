@@ -5,11 +5,15 @@
   "main": "cal.js",
   "directories": {
     "test": "test"
-  }, "scripts": {
+  },
+  "scripts": {
     "test": "jest",
     "test:watch": "jest --watch",
     "start": "node index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }

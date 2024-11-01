@@ -2,3 +2,4 @@
 NaN undefined NaN = Incorrect operator!
 NaN undefined NaN = Incorrect operator!
 NaN undefined NaN = Incorrect operator!
+NaN undefined NaN = Incorrect operator!
